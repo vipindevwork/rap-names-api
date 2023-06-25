@@ -1,6 +1,8 @@
 const express = require('express')
 app = express()
+const cors = require ('cors')
 const PORT = 8000
+app.use(cors())
 
 const rappers ={
     'honey singh':{
