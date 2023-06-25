@@ -14,6 +14,14 @@ const rappers ={
         'birthName': 'Aditya Prateek Singh SisodiaHirdesh Singh',
         'birthplace':'New Delhi, India',
     },
+    'motu':{
+        'age':"nahi batenge",
+        'birthName': 'Ayushi',
+        'birthplace':'katni',
+        'profession': 'C.A',
+        'special message':'i love u motu',
+    },
+
 
     'unknown':{
         'age':0,
